@@ -26,14 +26,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'd58052105b402040c25c18cf31ba2217', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '22.308092',
+	defaultLongitude: '114.264156',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -65,25 +65,25 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
+			name: 'Notion',
+			icon: 'square-activity',
 			link: 'https://notion.so',
 		},
 		{
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://calendar.notion.so/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://flipboard.com/',
+			name: 'News',
+			icon: 'newspaper',
+			link: 'https://finance.yahoo.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
@@ -166,11 +166,11 @@ const CONFIG = {
 				},
 				{
 					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					link: 'https://www.dribble.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Teams',
+					link: 'https://teams.microsoft.com/v2/',
 				},
 				{
 					name: 'Slack',
