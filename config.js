@@ -150,6 +150,10 @@ const CONFIG = {
 					name: 'Modern Wisdom',
 					link: 'https://www.youtube.com/@ChrisWillx',
 				},
+				{
+					name: 'Bloomberg',
+					link: 'https://www.bloomberg.com/asia',
+				},
 			],
 		},
 		{
